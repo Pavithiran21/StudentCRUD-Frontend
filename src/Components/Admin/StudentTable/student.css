@@ -1,0 +1,21 @@
+
+
+.action{
+   
+    width: 16px;
+}
+.eye{
+    color:blue;
+}
+.hand{
+    color: red;
+}
+.angry{
+    color: green;
+    
+}
+.icons-size{
+    min-width: 200px !important;
+    
+
+}

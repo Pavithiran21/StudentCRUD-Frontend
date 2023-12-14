@@ -1,0 +1,77 @@
+
+
+.main-form{
+  background-image: url('./Components/Images/school-management-software.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; 
+  min-height: 100vh;
+}
+/* a::placeholder{
+  text-decoration: none;
+  color: green;
+} */
+a {
+  text-decoration: none !important;
+}
+
+.form-group{
+  background: #163975;
+  color: white;
+  border:2px solid black;
+  border-radius: 10px;
+  width: 300px;
+  
+  
+
+}
+
+.form-size{
+  align-content:center;
+}
+.input-value{
+  width: 245px;
+  
+}
+/* .dashboard{
+ background-image: none;
+ background: cornsilk;
+} */
+.error{
+  color: red;
+  text-align: center;
+}
+.error:hover{
+  color: red;
+}
+.success{
+  color: #007bff;
+}
+.success:hover{
+  color: #007bff;
+}
+/* .image-nav{
+  position: absolute;
+  margin: 20px;
+} */
+
+
+
+
+
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
